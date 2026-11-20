@@ -18,12 +18,13 @@ My goal is to become a versatile programmer who truly understands **core computi
 ---
 
 #### 🛠️ Languages & Tools I'm Exploring
-![C++](https://shields.io)
 ![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![C++](https://shields.io)
 ![VS Code](https://shields.io)
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
-
 ---
 
 #### 📫 Let's Connect!
